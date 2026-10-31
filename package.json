@@ -43,5 +43,14 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vigneshmani28/do-i.git"
+  },
+  "homepage": "https://github.com/Vigneshmani28/do-i#readme",
+  "bugs": {
+    "url": "https://github.com/Vigneshmani28/do-i/issues"
+  },
+  "author": "Vigneshwaran Manivannan"
 }
